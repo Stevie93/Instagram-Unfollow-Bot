@@ -81,9 +81,5 @@ class InstaBot:
         self.driver.find_element_by_xpath('/html/body/div[6]/div/div/div[1]/div/div[2]/button').click()
         return names
 
-
-#/html/body/div[6]/div/div/div[1]/div/div[2]/button/div/svg/path
-
 my_bot = InstaBot('', pw)
 my_bot.get_unfollowers()
-# my_bot.get_unfollowers.unfollow()
