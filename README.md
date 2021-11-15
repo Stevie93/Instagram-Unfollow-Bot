@@ -4,4 +4,4 @@
 
 ## Links
 - [Repo](https://github.com/Stevie93/Instagram-Unfollow-Bot "Instagram Unfollow Bot")
-- [Bugs](https://github.com/Stevie93/Instagram-Unfollow-Bot/issues "Issues Page)
+- [Bugs](https://github.com/Stevie93/Instagram-Unfollow-Bot/issues "Issues Page")
