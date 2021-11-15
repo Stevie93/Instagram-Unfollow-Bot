@@ -2,17 +2,17 @@
 
 <p align="center">This is a tool that allows a user to scan through their existing Following list to identify accounts that are not following them back.</p>
 
-## Links
+### Links
 
 - [Repo](https://github.com/Stevie93/Instagram-Unfollow-Bot "Instagram Unfollow Bot")
 - [Bugs](https://github.com/Stevie93/Instagram-Unfollow-Bot/issues "Issues Page")
 
-## Built With
+### Built With
 
 - Python
 - Selenium webdriver
 
-## Direction For Use
+### Direction For Use
 
 Install the Selenium Webdriver (chrome). [More Info](https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver "Chrome Webdriver")
 
@@ -31,11 +31,11 @@ my_bot.get_unfollowers()
 
 execute the [app.py](https://github.com/Stevie93/Instagram-Unfollow-Bot/blob/main/app.py "app.py") file.
 
-## Author
+### Author
 
 **SFM**
 
-## 🤝 Support
+### 🤝 Support
 
 Contributions, issues, and feature requests are welcome!
 
